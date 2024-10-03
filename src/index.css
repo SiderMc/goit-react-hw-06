@@ -1,0 +1,6 @@
+ul{
+    list-style: none;
+}
+ul,p,h1{
+    margin: 0;
+}
